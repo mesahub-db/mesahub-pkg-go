@@ -1,0 +1,23 @@
+README.md
+  712bc465c7480789 1,3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "b537a957c0fec21e9d7ebcb93f424a95742b106a",
+  "prompts": {
+    "712bc465c7480789": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "0a5b6644-fc9d-4621-8bf4-f56cc0e1369b",
+        "model": "unknown"
+      },
+      "human_author": "Devendra Pratap Singh",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}

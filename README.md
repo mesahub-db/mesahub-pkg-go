@@ -1,6 +1,6 @@
-# mesahub Go SDK
+# MesaHub Go SDK
 
-Go SDK for [mesahub](https://mesahub.app) — access SQLite databases from Go with raw SQL or a high-level table API.
+Go SDK for [MesaHub](https://mesahub.app) — access SQLite databases from Go with raw SQL or a high-level table API.
 
 Zero external dependencies — uses only the Go standard library.
 

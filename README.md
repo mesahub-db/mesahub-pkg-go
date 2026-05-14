@@ -25,7 +25,7 @@ import (
 func main() {
     client := mesahub.New(mesahub.Config{
         APIKey: "shs_your_api_key",        // from mesahub.app → Settings → API Keys
-        APIURL: "https://api.mesahub.app", // or your self-hosted core URL
+        APIURL: "https://api.mesahub.app", // or your dedicated / self-hosted instance URL
     })
 
     db    := client.DB("my-app-db") // your database slug from the dashboard
